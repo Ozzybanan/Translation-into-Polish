@@ -8,9 +8,9 @@ The goal is for everyone who speaks Polish to be happy to use the program in the
 Helping the LaserGRBL project by translating it into Polish.
 
 ## Activity
-2020 06 09 LaserGRBL translation into Polish #1046 
-2020 06 14 I updated LaserGRBL translation into Polish #1050
-2020 07 05 Tłumaczenie Candle na język polski;
+- 2020 06 09 LaserGRBL translation into Polish #1046 ;
+- 2020 06 14 I updated LaserGRBL translation into Polish #1050;
+- 2020 07 05 Translation of Candle into Polish;
 
 ## Contact
 My nickname - "Ozzybanan".
