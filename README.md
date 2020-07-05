@@ -10,6 +10,7 @@ Helping the LaserGRBL project by translating it into Polish.
 ## Activity
 2020 06 09 LaserGRBL translation into Polish #1046 
 2020 06 14 I updated LaserGRBL translation into Polish #1050
+2020 07 05 Tłumaczenie Candle na język polski;
 
 ## Contact
 My nickname - "Ozzybanan".
