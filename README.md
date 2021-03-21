@@ -10,9 +10,9 @@ Helping the LaserGRBL project by translating it into Polish.
 ## Activity
 - 2020 06 09 LaserGRBL translation into Polish #1046 ;
 - 2020 06 14 I updated LaserGRBL translation into Polish #1050;
-- 2020 07 05 Translation of Candle (Windows: candle_1.1.7) into Polish (https://www.youtube.com/watch?v=aXtlj4FqB7Q); 
+- 2020 07 05 Translation of Candle into Polish (Windows: candle_1.1.7) (https://www.youtube.com/watch?v=aXtlj4FqB7Q); 
 - 2021 03 14 Translation of the "grblControl" program into Polish;
-- Translation of Candle into Polish (Candle_1.2.12b_x64).
+- 2021 03 21 Translation of Candle into Polish (Candle_1.2.12b_x64).
 
 ## Contact
 My nickname - "Ozzybanan".
